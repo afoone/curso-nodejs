@@ -47,4 +47,4 @@ const mostrarMenu = () => {
   })
 }
 
-module.exports = { mostrarMenu }
+module.exports = { mostrarMenu , pausa}
